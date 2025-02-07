@@ -2,7 +2,7 @@
 
 #### **1. Solution Diagram**
 
-![image-20250206204535596](C:\Users\yunti\AppData\Roaming\Typora\typora-user-images\image-20250206204535596.png)
+![image-20250206204535596](./image-20250206204535596.png)
 
 ------
 
