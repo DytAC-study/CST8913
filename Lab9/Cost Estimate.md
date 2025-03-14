@@ -15,4 +15,4 @@ Networking: 200 GB outbound data transfer.
 |                  |                  |             | Billing Profile   |                                                              |                        |                        |
 |                  |                  |             | Total             |                                                              |                1285.06 |                      0 |
 
-![1-1](/screenshots/1-1.png)
+![1-1](./screenshots/1-1.png)
